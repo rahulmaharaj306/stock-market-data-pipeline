@@ -9,7 +9,7 @@ Architecture
 API → Python ETL Script → MySQL Database → Power BI Dashboard
 
 Extract
-Stock market data is extracted from the Alpha Vantage API.
+Stock market data is extracted from the API.
 
 Transform
 The data is cleaned and structured using Python and Pandas.
