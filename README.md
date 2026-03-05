@@ -4,7 +4,7 @@ End-to-end stock market data pipeline using API extraction, ETL processing, MySQ
 
 This project highlights data engineering, ETL workflow, and business intelligence skills.
 
-#Architecture#
+Architecture
 
 API → Python ETL Script → MySQL Database → Power BI Dashboard
 
