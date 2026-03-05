@@ -4,3 +4,18 @@ End-to-end stock market data pipeline using API extraction, ETL processing, MySQ
 
 This project highlights data engineering, ETL workflow, and business intelligence skills.
 
+#Architecture#
+
+API → Python ETL Script → MySQL Database → Power BI Dashboard
+
+Extract
+Stock market data is extracted from the Alpha Vantage API.
+
+Transform
+The data is cleaned and structured using Python and Pandas.
+
+Load
+The processed data is stored in a MySQL database.
+
+Visualize
+Power BI is used to create an interactive dashboard for analyzing stock performance.
